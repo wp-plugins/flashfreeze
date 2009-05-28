@@ -1,9 +1,9 @@
 === FlashFreeze ===
 Contributors: LoneWolfMuskoka
-Donate link: http://blogs.wcnickerson.ca/wordpress
+Donate link: http://blogs.wcnickerson.ca/WordPress/Plugins/FlashFreeze
 Tags: blocks flash uploader
-Requires at least: 2.7.0 is all that I've tested -- not sure if Flash uploader was even available before that
-Tested up to: 2.7.0
+Requires at least: 2.7.0 (may work with 2.5.x and above, but these have not been tested)
+Tested up to: 2.7.1
 Stable tag: 1.0
 
 This plugin simply blocks the Flash media uploader and allows you to use the Browser media uploader by default.
